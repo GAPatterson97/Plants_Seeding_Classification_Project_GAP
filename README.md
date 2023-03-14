@@ -1,6 +1,7 @@
 # Plants_Seeding_Classification_Project_GAP
 
 Image classification using CNNs
+
 **Course:**
 
 Introduction to Computer Vision
