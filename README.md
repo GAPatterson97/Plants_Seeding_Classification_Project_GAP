@@ -11,6 +11,9 @@ To identify the plant seedlings species from 12 different species using a convol
 **Skills & Tools Covered**
 
 Keras
+
 CNN
+
 Working With Images
+
 Computer Vision
